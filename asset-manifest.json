@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/silsilah_keluarga/static/css/main.e6c13ad2.css",
+    "main.js": "/silsilah_keluarga/static/js/main.707a8c1c.js",
+    "static/js/453.2b520258.chunk.js": "/silsilah_keluarga/static/js/453.2b520258.chunk.js",
+    "index.html": "/silsilah_keluarga/index.html",
+    "main.e6c13ad2.css.map": "/silsilah_keluarga/static/css/main.e6c13ad2.css.map",
+    "main.707a8c1c.js.map": "/silsilah_keluarga/static/js/main.707a8c1c.js.map",
+    "453.2b520258.chunk.js.map": "/silsilah_keluarga/static/js/453.2b520258.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.707a8c1c.js"
+  ]
+}
