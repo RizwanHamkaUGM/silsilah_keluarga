@@ -118,7 +118,7 @@ const FamilyTree = () => {
   return (
     <div style={{ display: "flex", justifyContent: "space-between", padding: "20px" }}>
       <div style={{ width: "40%", paddingRight: "20px" }}>
-        <h2>Tabel Silsilah Keluarga</h2>
+        <h2>TabelLL Silsilah Keluarga</h2>
         <table border="1" style={{ width: "100%", borderCollapse: "collapse" }}>
           <thead>
             <tr>
