@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import * as d3 from "d3";
 
-const API_URL = "asdadhttps://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycbwqWu8-s3W_h-BzJIdgpdAe9irboZEzitIqgLREb7hI4p8IlR67jFQZfwu0AOdc8HMGwQ/exec";
+const API_URL = "https://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycbwqWu8-s3W_h-BzJIdgpdAe9irboZEzitIqgLREb7hI4p8IlR67jFQZfwu0AOdc8HMGwQ/exec";
 
 const FamilyTree = () => {
     const [data, setData] = useState([]);
